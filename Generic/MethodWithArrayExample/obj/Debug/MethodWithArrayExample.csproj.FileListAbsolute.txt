@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Learning\Generic\MethodWithArrayExample\bin\Debug\MethodWithArrayExample.exe.config
+D:\VisualStudio\Projects\C#\Learning\Generic\MethodWithArrayExample\bin\Debug\MethodWithArrayExample.exe
+D:\VisualStudio\Projects\C#\Learning\Generic\MethodWithArrayExample\bin\Debug\MethodWithArrayExample.pdb
+D:\VisualStudio\Projects\C#\Learning\Generic\MethodWithArrayExample\obj\Debug\MethodWithArrayExample.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\Generic\MethodWithArrayExample\obj\Debug\MethodWithArrayExample.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Learning\Generic\MethodWithArrayExample\obj\Debug\MethodWithArrayExample.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Generic\MethodWithArrayExample\obj\Debug\MethodWithArrayExample.exe
+D:\VisualStudio\Projects\C#\Learning\Generic\MethodWithArrayExample\obj\Debug\MethodWithArrayExample.pdb

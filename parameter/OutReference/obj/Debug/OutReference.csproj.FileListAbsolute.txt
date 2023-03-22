@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Learning\parameter\OutReference\bin\Debug\OutReference.exe.config
+D:\VisualStudio\Projects\C#\Learning\parameter\OutReference\bin\Debug\OutReference.exe
+D:\VisualStudio\Projects\C#\Learning\parameter\OutReference\bin\Debug\OutReference.pdb
+D:\VisualStudio\Projects\C#\Learning\parameter\OutReference\obj\Debug\OutReference.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\parameter\OutReference\obj\Debug\OutReference.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Learning\parameter\OutReference\obj\Debug\OutReference.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\parameter\OutReference\obj\Debug\OutReference.exe
+D:\VisualStudio\Projects\C#\Learning\parameter\OutReference\obj\Debug\OutReference.pdb

@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Learning\Generic\ClassExample\bin\Debug\ClassExample.exe.config
+D:\VisualStudio\Projects\C#\Learning\Generic\ClassExample\bin\Debug\ClassExample.exe
+D:\VisualStudio\Projects\C#\Learning\Generic\ClassExample\bin\Debug\ClassExample.pdb
+D:\VisualStudio\Projects\C#\Learning\Generic\ClassExample\obj\Debug\ClassExample.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\Generic\ClassExample\obj\Debug\ClassExample.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Learning\Generic\ClassExample\obj\Debug\ClassExample.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Generic\ClassExample\obj\Debug\ClassExample.exe
+D:\VisualStudio\Projects\C#\Learning\Generic\ClassExample\obj\Debug\ClassExample.pdb

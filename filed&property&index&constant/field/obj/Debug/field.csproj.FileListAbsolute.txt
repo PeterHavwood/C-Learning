@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\filed&property&index&constant\field\bin\Debug\field.exe.config
+D:\VisualStudio\Projects\C#\filed&property&index&constant\field\bin\Debug\field.exe
+D:\VisualStudio\Projects\C#\filed&property&index&constant\field\bin\Debug\field.pdb
+D:\VisualStudio\Projects\C#\filed&property&index&constant\field\obj\Debug\field.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\filed&property&index&constant\field\obj\Debug\field.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\filed&property&index&constant\field\obj\Debug\field.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\filed&property&index&constant\field\obj\Debug\field.exe
+D:\VisualStudio\Projects\C#\filed&property&index&constant\field\obj\Debug\field.pdb

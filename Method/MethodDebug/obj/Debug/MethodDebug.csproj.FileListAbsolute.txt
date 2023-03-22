@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Method\MethodDebug\bin\Debug\MethodDebug.exe.config
+D:\VisualStudio\Projects\C#\Method\MethodDebug\bin\Debug\MethodDebug.exe
+D:\VisualStudio\Projects\C#\Method\MethodDebug\bin\Debug\MethodDebug.pdb
+D:\VisualStudio\Projects\C#\Method\MethodDebug\obj\Debug\MethodDebug.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Method\MethodDebug\obj\Debug\MethodDebug.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Method\MethodDebug\obj\Debug\MethodDebug.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Method\MethodDebug\obj\Debug\MethodDebug.exe
+D:\VisualStudio\Projects\C#\Method\MethodDebug\obj\Debug\MethodDebug.pdb

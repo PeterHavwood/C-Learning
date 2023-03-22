@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Operator\Operators\bin\Debug\Operators.exe.config
+D:\VisualStudio\Projects\C#\Operator\Operators\bin\Debug\Operators.exe
+D:\VisualStudio\Projects\C#\Operator\Operators\bin\Debug\Operators.pdb
+D:\VisualStudio\Projects\C#\Operator\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Operator\Operators\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Operator\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Operator\Operators\obj\Debug\Operators.exe
+D:\VisualStudio\Projects\C#\Operator\Operators\obj\Debug\Operators.pdb

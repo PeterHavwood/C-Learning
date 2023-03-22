@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Operator\CustomizedTypeExchangeOperator\bin\Debug\CustomizedTypeExchangeOperator.exe.config
+D:\VisualStudio\Projects\C#\Operator\CustomizedTypeExchangeOperator\bin\Debug\CustomizedTypeExchangeOperator.exe
+D:\VisualStudio\Projects\C#\Operator\CustomizedTypeExchangeOperator\bin\Debug\CustomizedTypeExchangeOperator.pdb
+D:\VisualStudio\Projects\C#\Operator\CustomizedTypeExchangeOperator\obj\Debug\CustomizedTypeExchangeOperator.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Operator\CustomizedTypeExchangeOperator\obj\Debug\CustomizedTypeExchangeOperator.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Operator\CustomizedTypeExchangeOperator\obj\Debug\CustomizedTypeExchangeOperator.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Operator\CustomizedTypeExchangeOperator\obj\Debug\CustomizedTypeExchangeOperator.exe
+D:\VisualStudio\Projects\C#\Operator\CustomizedTypeExchangeOperator\obj\Debug\CustomizedTypeExchangeOperator.pdb

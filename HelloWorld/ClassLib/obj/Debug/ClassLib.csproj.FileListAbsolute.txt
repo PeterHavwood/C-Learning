@@ -1,0 +1,6 @@
+D:\VisualStudio\Projects\C#\HelloWorld\ClassLib\bin\Debug\ClassLib.dll
+D:\VisualStudio\Projects\C#\HelloWorld\ClassLib\bin\Debug\ClassLib.pdb
+D:\VisualStudio\Projects\C#\HelloWorld\ClassLib\obj\Debug\ClassLib.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\HelloWorld\ClassLib\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\HelloWorld\ClassLib\obj\Debug\ClassLib.dll
+D:\VisualStudio\Projects\C#\HelloWorld\ClassLib\obj\Debug\ClassLib.pdb

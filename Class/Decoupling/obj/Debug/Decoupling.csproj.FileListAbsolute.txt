@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Learning\Class\Decoupling\bin\Debug\Decoupling.exe.config
+D:\VisualStudio\Projects\C#\Learning\Class\Decoupling\bin\Debug\Decoupling.exe
+D:\VisualStudio\Projects\C#\Learning\Class\Decoupling\bin\Debug\Decoupling.pdb
+D:\VisualStudio\Projects\C#\Learning\Class\Decoupling\obj\Debug\Decoupling.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\Class\Decoupling\obj\Debug\Decoupling.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Learning\Class\Decoupling\obj\Debug\Decoupling.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Class\Decoupling\obj\Debug\Decoupling.exe
+D:\VisualStudio\Projects\C#\Learning\Class\Decoupling\obj\Debug\Decoupling.pdb

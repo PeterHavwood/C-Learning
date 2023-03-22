@@ -1,0 +1,11 @@
+D:\VisualStudio\Projects\C#\Learning\Event\ExampleInForm\bin\Debug\ExampleInForm.exe.config
+D:\VisualStudio\Projects\C#\Learning\Event\ExampleInForm\bin\Debug\ExampleInForm.exe
+D:\VisualStudio\Projects\C#\Learning\Event\ExampleInForm\bin\Debug\ExampleInForm.pdb
+D:\VisualStudio\Projects\C#\Learning\Event\ExampleInForm\obj\Debug\ExampleInForm.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\Event\ExampleInForm\obj\Debug\ExampleInForm.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Learning\Event\ExampleInForm\obj\Debug\ExampleInForm.MyForm.resources
+D:\VisualStudio\Projects\C#\Learning\Event\ExampleInForm\obj\Debug\ExampleInForm.Properties.Resources.resources
+D:\VisualStudio\Projects\C#\Learning\Event\ExampleInForm\obj\Debug\ExampleInForm.csproj.GenerateResource.cache
+D:\VisualStudio\Projects\C#\Learning\Event\ExampleInForm\obj\Debug\ExampleInForm.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Event\ExampleInForm\obj\Debug\ExampleInForm.exe
+D:\VisualStudio\Projects\C#\Learning\Event\ExampleInForm\obj\Debug\ExampleInForm.pdb

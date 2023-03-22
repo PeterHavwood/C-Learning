@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Learning\Class\Override\bin\Debug\Override.exe.config
+D:\VisualStudio\Projects\C#\Learning\Class\Override\bin\Debug\Override.exe
+D:\VisualStudio\Projects\C#\Learning\Class\Override\bin\Debug\Override.pdb
+D:\VisualStudio\Projects\C#\Learning\Class\Override\obj\Debug\Override.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\Class\Override\obj\Debug\Override.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Learning\Class\Override\obj\Debug\Override.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Class\Override\obj\Debug\Override.exe
+D:\VisualStudio\Projects\C#\Learning\Class\Override\obj\Debug\Override.pdb

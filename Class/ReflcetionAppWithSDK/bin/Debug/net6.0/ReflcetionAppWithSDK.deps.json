@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ReflcetionAppWithSDK/1.0.0": {
+        "dependencies": {
+          "Outfits.SDK": "1.0.0"
+        },
+        "runtime": {
+          "ReflcetionAppWithSDK.dll": {}
+        }
+      },
+      "Outfits.SDK/1.0.0": {
+        "runtime": {
+          "Outfits.SDK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReflcetionAppWithSDK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Outfits.SDK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Learning\Event\Examples\obj\Debug\Examples.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\Event\Examples\obj\Debug\Examples.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Learning\Event\Examples\obj\Debug\Examples.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Event\Examples\bin\Debug\Examples.exe.config
+D:\VisualStudio\Projects\C#\Learning\Event\Examples\bin\Debug\Examples.exe
+D:\VisualStudio\Projects\C#\Learning\Event\Examples\bin\Debug\Examples.pdb
+D:\VisualStudio\Projects\C#\Learning\Event\Examples\obj\Debug\Examples.exe
+D:\VisualStudio\Projects\C#\Learning\Event\Examples\obj\Debug\Examples.pdb

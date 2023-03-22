@@ -1,0 +1,15 @@
+D:\VisualStudio\Projects\C#\Learning\Class\ReflectionApp\bin\Debug\net6.0\ReflectionApp.exe
+D:\VisualStudio\Projects\C#\Learning\Class\ReflectionApp\bin\Debug\net6.0\ReflectionApp.deps.json
+D:\VisualStudio\Projects\C#\Learning\Class\ReflectionApp\bin\Debug\net6.0\ReflectionApp.runtimeconfig.json
+D:\VisualStudio\Projects\C#\Learning\Class\ReflectionApp\bin\Debug\net6.0\ReflectionApp.dll
+D:\VisualStudio\Projects\C#\Learning\Class\ReflectionApp\bin\Debug\net6.0\ReflectionApp.pdb
+D:\VisualStudio\Projects\C#\Learning\Class\ReflectionApp\obj\Debug\net6.0\ReflectionApp.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\Class\ReflectionApp\obj\Debug\net6.0\ReflectionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Projects\C#\Learning\Class\ReflectionApp\obj\Debug\net6.0\ReflectionApp.AssemblyInfoInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Class\ReflectionApp\obj\Debug\net6.0\ReflectionApp.AssemblyInfo.cs
+D:\VisualStudio\Projects\C#\Learning\Class\ReflectionApp\obj\Debug\net6.0\ReflectionApp.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Class\ReflectionApp\obj\Debug\net6.0\ReflectionApp.dll
+D:\VisualStudio\Projects\C#\Learning\Class\ReflectionApp\obj\Debug\net6.0\refint\ReflectionApp.dll
+D:\VisualStudio\Projects\C#\Learning\Class\ReflectionApp\obj\Debug\net6.0\ReflectionApp.pdb
+D:\VisualStudio\Projects\C#\Learning\Class\ReflectionApp\obj\Debug\net6.0\ReflectionApp.genruntimeconfig.cache
+D:\VisualStudio\Projects\C#\Learning\Class\ReflectionApp\obj\Debug\net6.0\ref\ReflectionApp.dll

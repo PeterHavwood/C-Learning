@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Learning\Event\CreatEvent\bin\Debug\CreatEvent.exe.config
+D:\VisualStudio\Projects\C#\Learning\Event\CreatEvent\bin\Debug\CreatEvent.exe
+D:\VisualStudio\Projects\C#\Learning\Event\CreatEvent\bin\Debug\CreatEvent.pdb
+D:\VisualStudio\Projects\C#\Learning\Event\CreatEvent\obj\Debug\CreatEvent.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\Event\CreatEvent\obj\Debug\CreatEvent.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Learning\Event\CreatEvent\obj\Debug\CreatEvent.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Event\CreatEvent\obj\Debug\CreatEvent.exe
+D:\VisualStudio\Projects\C#\Learning\Event\CreatEvent\obj\Debug\CreatEvent.pdb

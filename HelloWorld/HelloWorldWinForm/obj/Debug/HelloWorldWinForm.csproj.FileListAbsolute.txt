@@ -1,0 +1,11 @@
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorldWinForm\bin\Debug\HelloWorldWinForm.exe.config
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorldWinForm\bin\Debug\HelloWorldWinForm.exe
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorldWinForm\bin\Debug\HelloWorldWinForm.pdb
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.Form1.resources
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.Properties.Resources.resources
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.csproj.GenerateResource.cache
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.exe
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.pdb

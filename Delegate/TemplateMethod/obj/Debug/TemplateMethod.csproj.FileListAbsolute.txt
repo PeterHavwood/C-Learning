@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Learning\Delegate\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+D:\VisualStudio\Projects\C#\Learning\Delegate\TemplateMethod\bin\Debug\TemplateMethod.exe
+D:\VisualStudio\Projects\C#\Learning\Delegate\TemplateMethod\bin\Debug\TemplateMethod.pdb
+D:\VisualStudio\Projects\C#\Learning\Delegate\TemplateMethod\obj\Debug\TemplateMethod.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\Delegate\TemplateMethod\obj\Debug\TemplateMethod.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Learning\Delegate\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Delegate\TemplateMethod\obj\Debug\TemplateMethod.exe
+D:\VisualStudio\Projects\C#\Learning\Delegate\TemplateMethod\obj\Debug\TemplateMethod.pdb

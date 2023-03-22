@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Learning\Class\AbstractClass_Interface\bin\Debug\AbstractClass_Interface.exe.config
+D:\VisualStudio\Projects\C#\Learning\Class\AbstractClass_Interface\bin\Debug\AbstractClass_Interface.exe
+D:\VisualStudio\Projects\C#\Learning\Class\AbstractClass_Interface\bin\Debug\AbstractClass_Interface.pdb
+D:\VisualStudio\Projects\C#\Learning\Class\AbstractClass_Interface\obj\Debug\AbstractClass_Interface.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\Class\AbstractClass_Interface\obj\Debug\AbstractClass_Interface.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Learning\Class\AbstractClass_Interface\obj\Debug\AbstractClass_Interface.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Class\AbstractClass_Interface\obj\Debug\AbstractClass_Interface.exe
+D:\VisualStudio\Projects\C#\Learning\Class\AbstractClass_Interface\obj\Debug\AbstractClass_Interface.pdb

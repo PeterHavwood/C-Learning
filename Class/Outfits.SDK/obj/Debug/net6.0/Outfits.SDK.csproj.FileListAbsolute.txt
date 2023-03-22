@@ -1,0 +1,12 @@
+D:\VisualStudio\Projects\C#\Learning\Class\Outfits.SDK\bin\Debug\net6.0\Outfits.SDK.deps.json
+D:\VisualStudio\Projects\C#\Learning\Class\Outfits.SDK\bin\Debug\net6.0\Outfits.SDK.dll
+D:\VisualStudio\Projects\C#\Learning\Class\Outfits.SDK\bin\Debug\net6.0\Outfits.SDK.pdb
+D:\VisualStudio\Projects\C#\Learning\Class\Outfits.SDK\obj\Debug\net6.0\Outfits.SDK.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\Class\Outfits.SDK\obj\Debug\net6.0\Outfits.SDK.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Projects\C#\Learning\Class\Outfits.SDK\obj\Debug\net6.0\Outfits.SDK.AssemblyInfoInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Class\Outfits.SDK\obj\Debug\net6.0\Outfits.SDK.AssemblyInfo.cs
+D:\VisualStudio\Projects\C#\Learning\Class\Outfits.SDK\obj\Debug\net6.0\Outfits.SDK.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Class\Outfits.SDK\obj\Debug\net6.0\Outfits.SDK.dll
+D:\VisualStudio\Projects\C#\Learning\Class\Outfits.SDK\obj\Debug\net6.0\refint\Outfits.SDK.dll
+D:\VisualStudio\Projects\C#\Learning\Class\Outfits.SDK\obj\Debug\net6.0\Outfits.SDK.pdb
+D:\VisualStudio\Projects\C#\Learning\Class\Outfits.SDK\obj\Debug\net6.0\ref\Outfits.SDK.dll

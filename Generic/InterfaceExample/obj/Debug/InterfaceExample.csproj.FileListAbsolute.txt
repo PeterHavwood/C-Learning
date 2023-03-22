@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Learning\Generic\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+D:\VisualStudio\Projects\C#\Learning\Generic\InterfaceExample\bin\Debug\InterfaceExample.exe
+D:\VisualStudio\Projects\C#\Learning\Generic\InterfaceExample\bin\Debug\InterfaceExample.pdb
+D:\VisualStudio\Projects\C#\Learning\Generic\InterfaceExample\obj\Debug\InterfaceExample.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\Generic\InterfaceExample\obj\Debug\InterfaceExample.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Learning\Generic\InterfaceExample\obj\Debug\InterfaceExample.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Generic\InterfaceExample\obj\Debug\InterfaceExample.exe
+D:\VisualStudio\Projects\C#\Learning\Generic\InterfaceExample\obj\Debug\InterfaceExample.pdb

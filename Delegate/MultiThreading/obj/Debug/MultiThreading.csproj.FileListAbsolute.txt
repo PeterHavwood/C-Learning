@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Learning\Delegate\MultiThreading\obj\Debug\MultiThreading.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\Delegate\MultiThreading\obj\Debug\MultiThreading.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Learning\Delegate\MultiThreading\obj\Debug\MultiThreading.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Delegate\MultiThreading\bin\Debug\MultiThreading.exe.config
+D:\VisualStudio\Projects\C#\Learning\Delegate\MultiThreading\bin\Debug\MultiThreading.exe
+D:\VisualStudio\Projects\C#\Learning\Delegate\MultiThreading\bin\Debug\MultiThreading.pdb
+D:\VisualStudio\Projects\C#\Learning\Delegate\MultiThreading\obj\Debug\MultiThreading.exe
+D:\VisualStudio\Projects\C#\Learning\Delegate\MultiThreading\obj\Debug\MultiThreading.pdb

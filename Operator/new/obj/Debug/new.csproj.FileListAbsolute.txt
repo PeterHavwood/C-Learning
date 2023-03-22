@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Operator\new\bin\Debug\@new.exe.config
+D:\VisualStudio\Projects\C#\Operator\new\bin\Debug\@new.exe
+D:\VisualStudio\Projects\C#\Operator\new\bin\Debug\@new.pdb
+D:\VisualStudio\Projects\C#\Operator\new\obj\Debug\new.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Operator\new\obj\Debug\new.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Operator\new\obj\Debug\new.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Operator\new\obj\Debug\@new.exe
+D:\VisualStudio\Projects\C#\Operator\new\obj\Debug\@new.pdb

@@ -1,0 +1,11 @@
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorld-Console\bin\Debug\HelloWorld-Console.exe.config
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorld-Console\bin\Debug\HelloWorld-Console.exe
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorld-Console\bin\Debug\HelloWorld-Console.pdb
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorld-Console\obj\Debug\HelloWorld-Console.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorld-Console\obj\Debug\HelloWorld-Console.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorld-Console\obj\Debug\HelloWorld-Console.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorld-Console\obj\Debug\HelloWorld-Console.exe
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorld-Console\obj\Debug\HelloWorld-Console.pdb
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorld-Console\bin\Debug\ClassLib.dll
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorld-Console\bin\Debug\ClassLib.pdb
+D:\VisualStudio\Projects\C#\HelloWorld\HelloWorld-Console\obj\Debug\HelloWorld-Console.csproj.CopyComplete

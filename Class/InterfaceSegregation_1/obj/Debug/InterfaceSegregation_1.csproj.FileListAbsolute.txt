@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Learning\Class\InterfaceSegregation_1\bin\Debug\InterfaceSegregation_1.exe.config
+D:\VisualStudio\Projects\C#\Learning\Class\InterfaceSegregation_1\bin\Debug\InterfaceSegregation_1.exe
+D:\VisualStudio\Projects\C#\Learning\Class\InterfaceSegregation_1\bin\Debug\InterfaceSegregation_1.pdb
+D:\VisualStudio\Projects\C#\Learning\Class\InterfaceSegregation_1\obj\Debug\InterfaceSegregation_1.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\Class\InterfaceSegregation_1\obj\Debug\InterfaceSegregation_1.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Learning\Class\InterfaceSegregation_1\obj\Debug\InterfaceSegregation_1.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Class\InterfaceSegregation_1\obj\Debug\InterfaceSegregation_1.exe
+D:\VisualStudio\Projects\C#\Learning\Class\InterfaceSegregation_1\obj\Debug\InterfaceSegregation_1.pdb

@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\filed&property&index&constant\property\bin\Debug\property.exe.config
+D:\VisualStudio\Projects\C#\filed&property&index&constant\property\bin\Debug\property.exe
+D:\VisualStudio\Projects\C#\filed&property&index&constant\property\bin\Debug\property.pdb
+D:\VisualStudio\Projects\C#\filed&property&index&constant\property\obj\Debug\property.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\filed&property&index&constant\property\obj\Debug\property.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\filed&property&index&constant\property\obj\Debug\property.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\filed&property&index&constant\property\obj\Debug\property.exe
+D:\VisualStudio\Projects\C#\filed&property&index&constant\property\obj\Debug\property.pdb

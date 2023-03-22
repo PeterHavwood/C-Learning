@@ -1,0 +1,16 @@
+D:\VisualStudio\Projects\C#\HelloWorld\WpfTimer\obj\Debug\WpfTimer.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\HelloWorld\WpfTimer\obj\Debug\WpfTimer.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\HelloWorld\WpfTimer\obj\Debug\MainWindow.g.cs
+D:\VisualStudio\Projects\C#\HelloWorld\WpfTimer\obj\Debug\App.g.cs
+D:\VisualStudio\Projects\C#\HelloWorld\WpfTimer\obj\Debug\WpfTimer_MarkupCompile.cache
+D:\VisualStudio\Projects\C#\HelloWorld\WpfTimer\obj\Debug\WpfTimer_MarkupCompile.lref
+D:\VisualStudio\Projects\C#\HelloWorld\WpfTimer\bin\Debug\WpfTimer.exe.config
+D:\VisualStudio\Projects\C#\HelloWorld\WpfTimer\bin\Debug\WpfTimer.exe
+D:\VisualStudio\Projects\C#\HelloWorld\WpfTimer\bin\Debug\WpfTimer.pdb
+D:\VisualStudio\Projects\C#\HelloWorld\WpfTimer\obj\Debug\MainWindow.baml
+D:\VisualStudio\Projects\C#\HelloWorld\WpfTimer\obj\Debug\WpfTimer.g.resources
+D:\VisualStudio\Projects\C#\HelloWorld\WpfTimer\obj\Debug\WpfTimer.Properties.Resources.resources
+D:\VisualStudio\Projects\C#\HelloWorld\WpfTimer\obj\Debug\WpfTimer.csproj.GenerateResource.cache
+D:\VisualStudio\Projects\C#\HelloWorld\WpfTimer\obj\Debug\WpfTimer.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\HelloWorld\WpfTimer\obj\Debug\WpfTimer.exe
+D:\VisualStudio\Projects\C#\HelloWorld\WpfTimer\obj\Debug\WpfTimer.pdb

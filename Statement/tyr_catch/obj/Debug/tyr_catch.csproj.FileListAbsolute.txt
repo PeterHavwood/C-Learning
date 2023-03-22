@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Statement\tyr_catch\bin\Debug\tyr_catch.exe.config
+D:\VisualStudio\Projects\C#\Statement\tyr_catch\bin\Debug\tyr_catch.exe
+D:\VisualStudio\Projects\C#\Statement\tyr_catch\bin\Debug\tyr_catch.pdb
+D:\VisualStudio\Projects\C#\Statement\tyr_catch\obj\Debug\tyr_catch.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Statement\tyr_catch\obj\Debug\tyr_catch.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Statement\tyr_catch\obj\Debug\tyr_catch.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Statement\tyr_catch\obj\Debug\tyr_catch.exe
+D:\VisualStudio\Projects\C#\Statement\tyr_catch\obj\Debug\tyr_catch.pdb

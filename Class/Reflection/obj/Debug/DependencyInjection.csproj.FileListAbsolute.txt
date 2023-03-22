@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Learning\Class\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+D:\VisualStudio\Projects\C#\Learning\Class\DependencyInjection\bin\Debug\DependencyInjection.exe
+D:\VisualStudio\Projects\C#\Learning\Class\DependencyInjection\bin\Debug\DependencyInjection.pdb
+D:\VisualStudio\Projects\C#\Learning\Class\DependencyInjection\obj\Debug\DependencyInjection.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\Class\DependencyInjection\obj\Debug\DependencyInjection.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Learning\Class\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Class\DependencyInjection\obj\Debug\DependencyInjection.exe
+D:\VisualStudio\Projects\C#\Learning\Class\DependencyInjection\obj\Debug\DependencyInjection.pdb

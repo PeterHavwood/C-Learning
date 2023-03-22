@@ -1,0 +1,13 @@
+D:\VisualStudio\Projects\C#\Learning\Class\OutfitLibForApp\bin\Debug\net6.0\OutfitLibForApp.deps.json
+D:\VisualStudio\Projects\C#\Learning\Class\OutfitLibForApp\bin\Debug\net6.0\OutfitLibForApp.dll
+D:\VisualStudio\Projects\C#\Learning\Class\OutfitLibForApp\bin\Debug\net6.0\OutfitLibForApp.pdb
+D:\VisualStudio\Projects\C#\Learning\Class\OutfitLibForApp\obj\Debug\net6.0\OutfitLibForApp.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\Class\OutfitLibForApp\obj\Debug\net6.0\OutfitLibForApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Projects\C#\Learning\Class\OutfitLibForApp\obj\Debug\net6.0\OutfitLibForApp.AssemblyInfoInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Class\OutfitLibForApp\obj\Debug\net6.0\OutfitLibForApp.AssemblyInfo.cs
+D:\VisualStudio\Projects\C#\Learning\Class\OutfitLibForApp\obj\Debug\net6.0\OutfitLibForApp.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\Class\OutfitLibForApp\obj\Debug\net6.0\OutfitLibForApp.dll
+D:\VisualStudio\Projects\C#\Learning\Class\OutfitLibForApp\obj\Debug\net6.0\refint\OutfitLibForApp.dll
+D:\VisualStudio\Projects\C#\Learning\Class\OutfitLibForApp\obj\Debug\net6.0\OutfitLibForApp.pdb
+D:\VisualStudio\Projects\C#\Learning\Class\OutfitLibForApp\obj\Debug\net6.0\ref\OutfitLibForApp.dll
+D:\VisualStudio\Projects\C#\Learning\Class\OutfitLibForApp\obj\Debug\net6.0\OutfitLibForApp.csproj.CopyComplete

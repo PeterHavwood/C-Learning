@@ -1,0 +1,8 @@
+D:\VisualStudio\Projects\C#\Learning\parameter\parameters\bin\Debug\parameters.exe.config
+D:\VisualStudio\Projects\C#\Learning\parameter\parameters\bin\Debug\parameters.exe
+D:\VisualStudio\Projects\C#\Learning\parameter\parameters\bin\Debug\parameters.pdb
+D:\VisualStudio\Projects\C#\Learning\parameter\parameters\obj\Debug\parameters.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\C#\Learning\parameter\parameters\obj\Debug\parameters.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\C#\Learning\parameter\parameters\obj\Debug\parameters.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\C#\Learning\parameter\parameters\obj\Debug\parameters.exe
+D:\VisualStudio\Projects\C#\Learning\parameter\parameters\obj\Debug\parameters.pdb
